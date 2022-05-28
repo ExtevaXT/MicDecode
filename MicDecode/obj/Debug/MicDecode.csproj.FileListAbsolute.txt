@@ -1,0 +1,7 @@
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\bin\Debug\MicDecode.exe.config
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\bin\Debug\MicDecode.exe
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\bin\Debug\MicDecode.pdb
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\obj\Debug\MicDecode.csproj.AssemblyReference.cache
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\obj\Debug\MicDecode.csproj.CoreCompileInputs.cache
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\obj\Debug\MicDecode.exe
+C:\Users\is41-mirgorodtsevas\Source\Repos\ExtevaXT\MicDecode\MicDecode\obj\Debug\MicDecode.pdb
